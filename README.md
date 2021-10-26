@@ -1,12 +1,17 @@
 # ES6-boilerplate
 
-> Quick way to experiment with ES6
+> Quick way to experiment or do TDD with ES6.
 
 ### Install
 
     yarn install
 
 ### Usage
+
+**test**
+
+    yarn test
+    # expected to fail
 
 **run**
 
